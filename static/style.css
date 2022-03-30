@@ -1,0 +1,19 @@
+.menu, .menu1{
+	background: rgb(89, 138, 89) !important;
+}
+.menu ul li a{
+	color: #fff !important;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.item1:hover, .active{
+	border-bottom: 3px solid #000;
+}
+.drop1:hover{
+	background: #000 !important;
+}
+.menu1{
+	text-align: center;
+	padding-right: 20px;
+}
